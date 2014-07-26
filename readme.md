@@ -23,3 +23,13 @@ let myCar = car() //实现类car，生成对象myCar
 myCar.numberOfWheel = 4 //定义myCar的属性
 myCar.print() //调用myCar方法，打印属性
 ```
+
+##截图预览
+[截图1]!(\preview\ScreenShot1.png)
+[截图2]!(\preview\ScreenShot2.png)
+
+##升级APP
+  你可以下载源代码来升级APP的功能。例如：
+
+- 计票结束后显示胜出参选人
+- 增加减票功能
