@@ -25,8 +25,8 @@ myCar.print() //调用myCar方法，打印属性
 ```
 
 ##截图预览
-![截图1](\preview\ScreenShot1.png)
-![截图2](\preview\ScreenShot2.png)
+![截图1](https://github.com/Beiyi/vote/blob/master/preview/ScreenShot1.png)
+![截图2](https://github.com/Beiyi/vote/blob/master/preview/ScreenShot2.png)
 
 ##升级APP
   你可以下载源代码来升级APP的功能。例如：
