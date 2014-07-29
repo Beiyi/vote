@@ -11,7 +11,7 @@ import UIKit
 
 class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate {
 
-    @IBOutlet var tbview: UITableView
+    @IBOutlet var tbview: UITableView!
     
     @IBAction func addcell(sender: UIButton) {
         ivoter.addcounter(0)
